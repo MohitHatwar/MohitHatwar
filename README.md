@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohitHatwar
+- 👋 Hi, I’m @hatwar_mohit
 - 👀 I’m interested in Learning new tech things
 - 🌱 I’m currently learning chatbot using AI
 - 📫 How to reach me hatwar mohit
